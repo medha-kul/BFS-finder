@@ -1,5 +1,3 @@
-# CSCI 24000 Final Project 
-
  Implementing Breadth-First Search for Pathfinding on Square. The starting point(Pink) and ending point are fixed. The first square of the large square is initial point and last square on the bottom right is the ending point(Magenta).
 
 
